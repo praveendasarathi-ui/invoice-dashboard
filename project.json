@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_ofy4UwMKSLyv3RY1n6gOkdKChFX6",
+  "orgId": "team_vKt2XB446i8lEGkJfi6Xbqbp",
+  "projectName": "408e46-centubill-main",
+  "settings": {
+    "createdAt": 1773383148788,
+    "framework": "vite",
+    "devCommand": null,
+    "installCommand": "npm install",
+    "buildCommand": "npm run build",
+    "outputDirectory": "dist",
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}
